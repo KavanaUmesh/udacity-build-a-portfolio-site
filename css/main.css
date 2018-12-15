@@ -16,7 +16,7 @@
 }
 
 .authorOccupation {
-   text-align-last: end;    
+   text-align-last: end;
 }
 
 .line {
@@ -25,7 +25,7 @@
 
 .hero {
     margin-top: 10px;
-    background-image: url("htmlimage.jfif");
+    background-image: url("../img/htmlimage.jfif");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
