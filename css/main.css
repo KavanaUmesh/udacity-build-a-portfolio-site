@@ -1,0 +1,45 @@
+.header, .body {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.headerLeft {
+    width: 20%;
+    height: 50%;
+}
+
+.authorOccupation {
+   text-align-last: end;    
+}
+
+.line {
+    border-bottom: 1px solid black;
+}
+
+.hero {
+    margin-top: 10px;
+    background-image: url("htmlimage.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
+
+.appifyName, .sunflowerName, .bokehName {
+    text-align: center;
+}
+
+.appifyLink, .sunflowerLink, .bokehLink {
+    text-align: center;
+}
+
+
+
+
